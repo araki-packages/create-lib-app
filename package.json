@@ -1,0 +1,14 @@
+{
+  "devEngines": {
+    "node": "12.x"
+  },
+  "name": "create-lib-app",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
